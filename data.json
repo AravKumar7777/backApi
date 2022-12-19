@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "name":"aman kumar",
+        "description" : "The best descriptions are the ones that are completely original, easily understood and often reminisced. They're digestible yet impressionable, they say something profound but they're palatable enough to be comprehended by anyone.",
+        "image":"C:/Users/Aman/Desktop/frontEndProjects/project7/reactprojectfirst/public/images/photo7.avif"
+    },
+    {
+        "id":2,
+        "name":"aman kumar",
+        "description" : "The best descriptions are the ones that are completely original, easily understood and often reminisced. They're digestible yet impressionable, they say something profound but they're palatable enough to be comprehended by anyone.",
+        "image":"C:/Users/Aman/Desktop/frontEndProjects/project7/reactprojectfirst/public/images/photo8.avif"
+    },
+    {
+        "id":3,
+        "name":"aman kumar",
+        "description" : "The best descriptions are the ones that are completely original, easily understood and often reminisced. They're digestible yet impressionable, they say something profound but they're palatable enough to be comprehended by anyone.",
+        "image":"C:/Users/Aman/Desktop/frontEndProjects/project7/reactprojectfirst/public/images/photo9.avif"
+    },
+    {
+        "id":4,
+        "name":"aman kumar",
+        "description" : "The best descriptions are the ones that are completely original, easily understood and often reminisced. They're digestible yet impressionable, they say something profound but they're palatable enough to be comprehended by anyone.",
+        "image":"C:/Users/Aman/Desktop/frontEndProjects/project7/reactprojectfirst/public/images/photo10.avif"
+    },
+    {
+        "id":5,
+        "name":"aman kumar",
+        "description" : "The best descriptions are the ones that are completely original, easily understood and often reminisced. They're digestible yet impressionable, they say something profound but they're palatable enough to be comprehended by anyone.",
+        "image":"C:/Users/Aman/Desktop/frontEndProjects/project7/reactprojectfirst/public/images/photo11.avif"
+    },
+    {
+        "id":6,
+        "name":"aman kumar",
+        "description" : "The best descriptions are the ones that are completely original, easily understood and often reminisced. They're digestible yet impressionable, they say something profound but they're palatable enough to be comprehended by anyone.",
+        "image":"C:/Users/Aman/Desktop/frontEndProjects/project7/reactprojectfirst/public/images/photo12.avif"
+    }
+]
